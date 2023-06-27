@@ -1,0 +1,28 @@
+  1.DIFFERENCES BETWEEN  HTTP1.1 AND HTTP2
+
+ HTTP1.1:
+
+ 1.The first usable version of HTTP was created in 1997.
+ 2.Because it went through several stages of developmentThese objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol)
+ and in the sense that while these primitive data-types all store a single value each (depending on their types).
+ this first version of HTTP was called HTTP/1.1. 
+ 3.This version is still in use on the web.
+ 4.HTTP/1.1 loads resources one after the other, so if one resource cannot be loaded, it blocks all the other resources behind it.
+
+ HTTP2:
+  
+ 1.In 2015, a new version of HTTP called HTTP/2 was created.
+ 2.HTTP/2 solves several problems that the creators of HTTP/1.1 did not anticipate.
+ 3.In particular, HTTP/2 is much faster and more efficient than HTTP/1.1. 
+ 4.One of the ways in which HTTP/2 is faster is in how it prioritizes content during the loading process.
+ 
+ 
+ 2. Write a blog about objects and its internal representation in Javascript
+  
+ 1.Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript.
+ 2.These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) ,
+in the sense that while these primitive data-types all store a single value each (depending on their types).
+ 3.Objects are more complex and each object may contain any combination of these primitive data-types as well as reference data-types.
+ 4.An object, is a reference data type.
+ 5.Variables that are assigned a reference value are given a reference or a pointer to that value.
+ 6.That reference or pointer points to the location in memory where the object is stored. The variables don’t actually store the value.
